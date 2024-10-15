@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi I am Christian Reyes
 
+![enter image description here](https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+## About me
+ - 🌐 Web developper
+ - 📱Mobile developper
+ - 🎮Videogames developper
 <!--
 **ChristianRey117/ChristianRey117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
